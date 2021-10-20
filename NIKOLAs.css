@@ -1,0 +1,1087 @@
+.glavnaia {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: flex;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .glavnaia .overlap-group4 {
+    align-items: center;
+    background-image: url(illustration-floppy.svg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: -220px;
+    min-height: 1464px;
+    padding: 252px 0;
+    width: 1464px;
+  }
+  
+  .glavnaia .overlap-group1 {
+    align-self: flex-start;
+    height: 64px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .glavnaia .overlap-group {
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .glavnaia .line-1 {
+    height: 4px;
+    left: 0;
+    position: absolute;
+    top: 60px;
+    width: 1440px;
+  }
+  
+  .glavnaia .title {
+    color: var(--black);
+    font-family: var(--font-family-helveticaneuecyr-black);
+    font-size: var(--font-size-l);
+    font-weight: 900;
+    left: 56px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .glavnaia .softskills {
+    cursor: pointer;
+    left: 537px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 18px;
+    transition: all 0.2s ease;
+  }
+  
+  .glavnaia .softskills:hover {
+    transform: scale(0.9); 
+  }
+  
+  .glavnaia .contacts {
+    cursor: pointer;
+    left: 954px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 18px;
+    transition: all 0.2s ease;
+  }
+  
+  .glavnaia .contacts:hover {
+    transform: scale(0.9); 
+  }
+  
+  .glavnaia .achievement {
+    cursor: pointer;
+    left: 1142px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 18px;
+    transition: all 0.2s ease;
+  }
+  
+  .glavnaia .achievement:hover {
+    transform: scale(0.9); 
+  }
+  
+  .glavnaia .hardskills {
+    cursor: pointer;
+    left: 743px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 18px;
+    transition: all 0.2s ease;
+  }
+  
+  .glavnaia .hardskills:hover {
+    transform: scale(0.9); 
+  }
+  
+  .glavnaia .flex-row {
+    align-items: flex-end;
+    display: flex;
+    margin-right: 28.9px;
+    margin-top: 23px;
+    min-width: 1341px;
+  }
+  
+  .glavnaia .overlap-group2 {
+    height: 368px;
+    position: relative;
+    width: 415px;
+  }
+  
+  .glavnaia .vector-1 {
+    height: 331px;
+    left: 77px;
+    position: absolute;
+    top: 0;
+    width: 327px;
+  }
+  
+  .glavnaia .vector-2 {
+    height: 201px;
+    left: 36px;
+    position: absolute;
+    top: 164px;
+    width: 325px;
+  }
+  
+  .glavnaia .vector-3 {
+    height: 64px;
+    left: 81px;
+    position: absolute;
+    top: 171px;
+    width: 95px;
+  }
+  
+  .glavnaia .vector-4 {
+    height: 29px;
+    left: 77px;
+    position: absolute;
+    top: 134px;
+    width: 36px;
+  }
+  
+  .glavnaia .vector-5 {
+    height: 29px;
+    left: 96px;
+    position: absolute;
+    top: 134px;
+    width: 32px;
+  }
+  
+  .glavnaia .vector-6 {
+    height: 256px;
+    left: 34px;
+    position: absolute;
+    top: 111px;
+    width: 154px;
+  }
+  
+  .glavnaia .vector-7 {
+    height: 29px;
+    left: 104px;
+    position: absolute;
+    top: 112px;
+    width: 40px;
+  }
+  
+  .glavnaia .vector-8 {
+    height: 69px;
+    left: 184px;
+    position: absolute;
+    top: 199px;
+    width: 120px;
+  }
+  
+  .glavnaia .vector-9 {
+    height: 39px;
+    left: 91px;
+    position: absolute;
+    top: 154px;
+    width: 132px;
+  }
+  
+  .glavnaia .vector-10 {
+    height: 21px;
+    left: 316px;
+    position: absolute;
+    top: 343px;
+    width: 21px;
+  }
+  
+  .glavnaia .vector-11 {
+    height: 9px;
+    left: 194px;
+    position: absolute;
+    top: 229px;
+    width: 21px;
+  }
+  
+  .glavnaia .overlap-group-1 {
+    background-image: url(vector-52.svg);
+    background-size: 100% 100%;
+    height: 107px;
+    left: 77px;
+    position: absolute;
+    top: 127px;
+    width: 98px;
+  }
+  
+  .glavnaia .vector-12 {
+    height: 107px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 98px;
+  }
+  
+  .glavnaia .vector-13 {
+    height: 97px;
+    left: 6px;
+    position: absolute;
+    top: 5px;
+    width: 87px;
+  }
+  
+  .glavnaia .vector-14 {
+    height: 9px;
+    left: 194px;
+    position: absolute;
+    top: 240px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector {
+    height: 100px;
+    left: 44px;
+    position: absolute;
+    top: 239px;
+    width: 175px;
+  }
+  
+  .glavnaia .vector-15 {
+    height: 51px;
+    left: 193px;
+    position: absolute;
+    top: 217px;
+    width: 29px;
+  }
+  
+  .glavnaia .vector-16 {
+    height: 105px;
+    left: 41px;
+    position: absolute;
+    top: 237px;
+    width: 181px;
+  }
+  
+  .glavnaia .vector-17 {
+    height: 92px;
+    left: 51px;
+    position: absolute;
+    top: 243px;
+    width: 162px;
+  }
+  
+  .glavnaia .vector-18 {
+    height: 52px;
+    left: 312px;
+    position: absolute;
+    top: 314px;
+    width: 27px;
+  }
+  
+  .glavnaia .vector-19 {
+    height: 6px;
+    left: 0;
+    position: absolute;
+    top: 361px;
+    width: 415px;
+  }
+  
+  .glavnaia .vector-20 {
+    height: 8px;
+    left: 205px;
+    position: absolute;
+    top: 141px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-21 {
+    height: 73px;
+    left: 125px;
+    position: absolute;
+    top: 125px;
+    width: 31px;
+  }
+  
+  .glavnaia .vector-22 {
+    height: 60px;
+    left: 107px;
+    position: absolute;
+    top: 178px;
+    width: 70px;
+  }
+  
+  .glavnaia .vector-23 {
+    height: 93px;
+    left: 74px;
+    position: absolute;
+    top: 144px;
+    width: 104px;
+  }
+  
+  .glavnaia .vector-24 {
+    height: 62px;
+    left: 179px;
+    position: absolute;
+    top: 79px;
+    width: 81px;
+  }
+  
+  .glavnaia .vector-25 {
+    height: 90px;
+    left: 175px;
+    position: absolute;
+    top: 71px;
+    width: 91px;
+  }
+  
+  .glavnaia .vector-26 {
+    height: 7px;
+    left: 198px;
+    position: absolute;
+    top: 126px;
+    width: 5px;
+  }
+  
+  .glavnaia .vector-27 {
+    height: 6px;
+    left: 215px;
+    position: absolute;
+    top: 126px;
+    width: 6px;
+  }
+  
+  .glavnaia .vector-28 {
+    height: 22px;
+    left: 191px;
+    position: absolute;
+    top: 118px;
+    width: 23px;
+  }
+  
+  .glavnaia .vector-29 {
+    height: 10px;
+    left: 209px;
+    position: absolute;
+    top: 116px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector-30 {
+    height: 35px;
+    left: 212px;
+    position: absolute;
+    top: 156px;
+    width: 54px;
+  }
+  
+  .glavnaia .vector-31 {
+    height: 13px;
+    left: 217px;
+    position: absolute;
+    top: 162px;
+    width: 9px;
+  }
+  
+  .glavnaia .vector-32 {
+    height: 202px;
+    left: 207px;
+    position: absolute;
+    top: 136px;
+    width: 156px;
+  }
+  
+  .glavnaia .vector-33 {
+    height: 31px;
+    left: 81px;
+    position: absolute;
+    top: 280px;
+    width: 42px;
+  }
+  
+  .glavnaia .vector-34 {
+    height: 19px;
+    left: 81px;
+    position: absolute;
+    top: 258px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-35 {
+    height: 30px;
+    left: 240px;
+    position: absolute;
+    top: 315px;
+    width: 86px;
+  }
+  
+  .glavnaia .vector-36 {
+    height: 21px;
+    left: 229px;
+    position: absolute;
+    top: 344px;
+    width: 37px;
+  }
+  
+  .glavnaia .vector-37 {
+    height: 29px;
+    left: 300px;
+    position: absolute;
+    top: 315px;
+    width: 39px;
+  }
+  
+  .glavnaia .vector-38 {
+    height: 35px;
+    left: 237px;
+    position: absolute;
+    top: 312px;
+    width: 104px;
+  }
+  
+  .glavnaia .vector-39 {
+    height: 35px;
+    left: 237px;
+    position: absolute;
+    top: 312px;
+    width: 81px;
+  }
+  
+  .glavnaia .vector-40 {
+    height: 27px;
+    left: 226px;
+    position: absolute;
+    top: 341px;
+    width: 103px;
+  }
+  
+  .glavnaia .vector-41 {
+    height: 27px;
+    left: 252px;
+    position: absolute;
+    top: 341px;
+    width: 76px;
+  }
+  
+  .glavnaia .vector-42 {
+    height: 8px;
+    left: 129px;
+    position: absolute;
+    top: 269px;
+    width: 33px;
+  }
+  
+  .glavnaia .vector-43 {
+    height: 8px;
+    left: 159px;
+    position: absolute;
+    top: 269px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector-44 {
+    height: 14px;
+    left: 159px;
+    position: absolute;
+    top: 266px;
+    width: 14px;
+  }
+  
+  .glavnaia .vector-45 {
+    height: 8px;
+    left: 153px;
+    position: absolute;
+    top: 286px;
+    width: 32px;
+  }
+  
+  .glavnaia .vector-46 {
+    height: 8px;
+    left: 136px;
+    position: absolute;
+    top: 286px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector-47 {
+    height: 14px;
+    left: 142px;
+    position: absolute;
+    top: 283px;
+    width: 14px;
+  }
+  
+  .glavnaia .vector-48 {
+    height: 9px;
+    left: 141px;
+    position: absolute;
+    top: 301px;
+    width: 24px;
+  }
+  
+  .glavnaia .vector-49 {
+    height: 9px;
+    left: 161px;
+    position: absolute;
+    top: 301px;
+    width: 30px;
+  }
+  
+  .glavnaia .vector-50 {
+    height: 13px;
+    left: 161px;
+    position: absolute;
+    top: 299px;
+    width: 14px;
+  }
+  
+  .glavnaia .vector-51 {
+    height: 2px;
+    left: 51px;
+    position: absolute;
+    top: 161px;
+    width: 1px;
+  }
+  
+  .glavnaia .vector-52 {
+    height: 29px;
+    left: 108px;
+    position: absolute;
+    top: 171px;
+    width: 24px;
+  }
+  
+  .glavnaia .overlap-group3 {
+    height: 286px;
+    margin-bottom: 2.95px;
+    margin-left: 516px;
+    position: relative;
+    width: 410px;
+  }
+  
+  .glavnaia .vector-53 {
+    height: 136px;
+    left: 282px;
+    position: absolute;
+    top: 29px;
+    width: 102px;
+  }
+  
+  .glavnaia .vector-54 {
+    height: 29px;
+    left: 290px;
+    position: absolute;
+    top: 42px;
+    width: 86px;
+  }
+  
+  .glavnaia .vector-55 {
+    height: 6px;
+    left: 330px;
+    position: absolute;
+    top: 49px;
+    width: 5px;
+  }
+  
+  .glavnaia .vector-56 {
+    height: 8px;
+    left: 325px;
+    position: absolute;
+    top: 56px;
+    width: 15px;
+  }
+  
+  .glavnaia .vector-57 {
+    height: 27px;
+    left: 320px;
+    position: absolute;
+    top: 92px;
+    width: 26px;
+  }
+  
+  .glavnaia .vector-58 {
+    height: 48px;
+    left: 161px;
+    position: absolute;
+    top: 56px;
+    width: 49px;
+  }
+  
+  .glavnaia .vector-59 {
+    height: 25px;
+    left: 122px;
+    position: absolute;
+    top: 106px;
+    width: 25px;
+  }
+  
+  .glavnaia .vector-60 {
+    height: 6px;
+    left: 300px;
+    position: absolute;
+    top: 75px;
+    width: 64px;
+  }
+  
+  .glavnaia .vector-61 {
+    height: 5px;
+    left: 300px;
+    position: absolute;
+    top: 82px;
+    width: 64px;
+  }
+  
+  .glavnaia .vector-62 {
+    height: 6px;
+    left: 300px;
+    position: absolute;
+    top: 121px;
+    width: 64px;
+  }
+  
+  .glavnaia .vector-63 {
+    height: 6px;
+    left: 315px;
+    position: absolute;
+    top: 127px;
+    width: 34px;
+  }
+  
+  .glavnaia .vector-64 {
+    height: 128px;
+    left: 378px;
+    position: absolute;
+    top: 114px;
+    width: 32px;
+  }
+  
+  .glavnaia .vector-65 {
+    height: 170px;
+    left: 60px;
+    position: absolute;
+    top: 0;
+    width: 226px;
+  }
+  
+  .glavnaia .vector-66 {
+    height: 143px;
+    left: 208px;
+    position: absolute;
+    top: 141px;
+    width: 190px;
+  }
+  
+  .glavnaia .vector-67 {
+    height: 53px;
+    left: 174px;
+    position: absolute;
+    top: 126px;
+    width: 69px;
+  }
+  
+  .glavnaia .vector-68 {
+    height: 147px;
+    left: 36px;
+    position: absolute;
+    top: 139px;
+    width: 364px;
+  }
+  
+  .glavnaia .vector-69 {
+    height: 6px;
+    left: 185px;
+    position: absolute;
+    top: 164px;
+    width: 6px;
+  }
+  
+  .glavnaia .vector-70 {
+    height: 6px;
+    left: 202px;
+    position: absolute;
+    top: 164px;
+    width: 6px;
+  }
+  
+  .glavnaia .vector-71 {
+    height: 60px;
+    left: 169px;
+    position: absolute;
+    top: 121px;
+    width: 77px;
+  }
+  
+  .glavnaia .vector-72 {
+    height: 21px;
+    left: 224px;
+    position: absolute;
+    top: 263px;
+    width: 18px;
+  }
+  
+  .glavnaia .vector-73 {
+    height: 10px;
+    left: 175px;
+    position: absolute;
+    top: 149px;
+    width: 14px;
+  }
+  
+  .glavnaia .vector-74 {
+    height: 8px;
+    left: 200px;
+    position: absolute;
+    top: 148px;
+    width: 15px;
+  }
+  
+  .glavnaia .vector-75 {
+    height: 8px;
+    left: 204px;
+    position: absolute;
+    top: 176px;
+    width: 12px;
+  }
+  
+  .glavnaia .vector-76 {
+    height: 44px;
+    left: 180px;
+    position: absolute;
+    top: 151px;
+    width: 42px;
+  }
+  
+  .glavnaia .vector-77 {
+    height: 46px;
+    left: 216px;
+    position: absolute;
+    top: 151px;
+    width: 35px;
+  }
+  
+  .glavnaia .vector-78 {
+    height: 16px;
+    left: 263px;
+    position: absolute;
+    top: 270px;
+    width: 10px;
+  }
+  
+  .glavnaia .vector-79 {
+    height: 24px;
+    left: 253px;
+    position: absolute;
+    top: 262px;
+    width: 13px;
+  }
+  
+  .glavnaia .vector-80 {
+    height: 31px;
+    left: 244px;
+    position: absolute;
+    top: 255px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-81 {
+    height: 133px;
+    left: 221px;
+    position: absolute;
+    top: 153px;
+    width: 160px;
+  }
+  
+  .glavnaia .vector-82 {
+    height: 15px;
+    left: 197px;
+    position: absolute;
+    top: 157px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-83 {
+    height: 16px;
+    left: 179px;
+    position: absolute;
+    top: 156px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-84 {
+    height: 26px;
+    left: 215px;
+    position: absolute;
+    top: 260px;
+    width: 37px;
+  }
+  
+  .glavnaia .vector-85 {
+    height: 18px;
+    left: 138px;
+    position: absolute;
+    top: 225px;
+    width: 19px;
+  }
+  
+  .glavnaia .vector-86 {
+    height: 59px;
+    left: 116px;
+    position: absolute;
+    top: 191px;
+    width: 147px;
+  }
+  
+  .glavnaia .vector-87 {
+    height: 30px;
+    left: 139px;
+    position: absolute;
+    top: 201px;
+    width: 29px;
+  }
+  
+  .glavnaia .vector-88 {
+    height: 20px;
+    left: 195px;
+    position: absolute;
+    top: 155px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector-89 {
+    height: 18px;
+    left: 178px;
+    position: absolute;
+    top: 155px;
+    width: 18px;
+  }
+  
+  .glavnaia .vector-90 {
+    height: 20px;
+    left: 177px;
+    position: absolute;
+    top: 154px;
+    width: 20px;
+  }
+  
+  .glavnaia .vector-91 {
+    height: 6px;
+    left: 194px;
+    position: absolute;
+    top: 161px;
+    width: 5px;
+  }
+  
+  .glavnaia .vector-92 {
+    height: 14px;
+    left: 192px;
+    position: absolute;
+    top: 162px;
+    width: 8px;
+  }
+  
+  .glavnaia .vector-93 {
+    height: 56px;
+    left: 125px;
+    position: absolute;
+    top: 196px;
+    width: 23px;
+  }
+  
+  .glavnaia .vector-94 {
+    height: 16px;
+    left: 153px;
+    position: absolute;
+    top: 223px;
+    width: 81px;
+  }
+  
+  .glavnaia .vector-95 {
+    height: 23px;
+    left: 236px;
+    position: absolute;
+    top: 262px;
+    width: 9px;
+  }
+  
+  .glavnaia .vector-96 {
+    height: 99px;
+    left: 2px;
+    position: absolute;
+    top: 168px;
+    width: 153px;
+  }
+  
+  .glavnaia .vector-97 {
+    height: 93px;
+    left: 7px;
+    position: absolute;
+    top: 171px;
+    width: 143px;
+  }
+  
+  .glavnaia .vector-98 {
+    height: 104px;
+    left: 0;
+    position: absolute;
+    top: 165px;
+    width: 157px;
+  }
+  
+  .glavnaia .vector-99 {
+    height: 36px;
+    left: 22px;
+    position: absolute;
+    top: 183px;
+    width: 44px;
+  }
+  
+  .glavnaia .vector-100 {
+    height: 9px;
+    left: 28px;
+    position: absolute;
+    top: 188px;
+    width: 8px;
+  }
+  
+  .glavnaia .vector-101 {
+    height: 7px;
+    left: 39px;
+    position: absolute;
+    top: 190px;
+    width: 19px;
+  }
+  
+  .glavnaia .vector-102 {
+    height: 23px;
+    left: 84px;
+    position: absolute;
+    top: 184px;
+    width: 32px;
+  }
+  
+  .glavnaia .vector-103 {
+    height: 7px;
+    left: 88px;
+    position: absolute;
+    top: 220px;
+    width: 25px;
+  }
+  
+  .glavnaia .vector-104 {
+    height: 7px;
+    left: 110px;
+    position: absolute;
+    top: 220px;
+    width: 16px;
+  }
+  
+  .glavnaia .vector-105 {
+    height: 11px;
+    left: 110px;
+    position: absolute;
+    top: 218px;
+    width: 11px;
+  }
+  
+  .glavnaia .vector-106 {
+    height: 6px;
+    left: 48px;
+    position: absolute;
+    top: 233px;
+    width: 83px;
+  }
+  
+  .glavnaia .vector-107 {
+    height: 6px;
+    left: 35px;
+    position: absolute;
+    top: 233px;
+    width: 15px;
+  }
+  
+  .glavnaia .vector-108 {
+    height: 10px;
+    left: 40px;
+    position: absolute;
+    top: 231px;
+    width: 11px;
+  }
+  
+  .glavnaia .vector-109 {
+    height: 7px;
+    left: 39px;
+    position: absolute;
+    top: 245px;
+    width: 18px;
+  }
+  
+  .glavnaia .vector-110 {
+    height: 7px;
+    left: 54px;
+    position: absolute;
+    top: 245px;
+    width: 81px;
+  }
+  
+  .glavnaia .vector-111 {
+    height: 10px;
+    left: 54px;
+    position: absolute;
+    top: 243px;
+    width: 11px;
+  }
+  
+  .glavnaia .group {
+    height: 71px;
+    left: 23px;
+    position: absolute;
+    top: 184px;
+    width: 113px;
+  }
+  
+  .glavnaia .flex-row-1 {
+    align-items: flex-end;
+    display: flex;
+    margin-left: 24.49px;
+    margin-top: 49px;
+    min-width: 1381px;
+  }
+  
+  .glavnaia .illustration-sp-an-running-play {
+    height: 324px;
+    margin-bottom: 3.35px;
+    width: 411px;
+  }
+  
+  .glavnaia .illustration-fo-ing-meal-dinner {
+    height: 439px;
+    margin-left: 520px;
+    width: 450px;
+  }
+  
+  @font-face {
+    font-family: "HelveticaNeueCyr-Black";
+    font-style: normal;
+    font-weight: 900;
+    src: url("https://fonts.animaapp.com/HelveticaNeueCyr-Black") format("opentype");
+  }
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
